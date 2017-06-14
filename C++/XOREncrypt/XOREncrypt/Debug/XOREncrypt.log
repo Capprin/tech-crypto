@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\cappr\documents\id tech\cryptography\c++\xorencrypt\xorencrypt\main.cpp(69): warning C4018: '<': signed/unsigned mismatch
+  XOREncrypt.vcxproj -> C:\Users\cappr\Documents\iD Tech\Cryptography\C++\XOREncrypt\Debug\XOREncrypt.exe
+  XOREncrypt.vcxproj -> C:\Users\cappr\Documents\iD Tech\Cryptography\C++\XOREncrypt\Debug\XOREncrypt.pdb (Partial PDB)

@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\cappr\documents\id tech\cryptography\c++\shiftencrypt\shiftencrypt\main.cpp(30): warning C4018: '<': signed/unsigned mismatch
+  shiftEncrypt.vcxproj -> C:\Users\cappr\Documents\iD Tech\Cryptography\C++\shiftEncrypt\Debug\shiftEncrypt.exe
+  shiftEncrypt.vcxproj -> C:\Users\cappr\Documents\iD Tech\Cryptography\C++\shiftEncrypt\Debug\shiftEncrypt.pdb (Partial PDB)
