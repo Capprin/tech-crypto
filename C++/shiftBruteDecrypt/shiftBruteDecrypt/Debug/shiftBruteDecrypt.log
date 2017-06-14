@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\cappr\documents\id tech\cryptography\c++\shiftbrutedecrypt\shiftbrutedecrypt\main.cpp(32): warning C4018: '<': signed/unsigned mismatch
+  shiftBruteDecrypt.vcxproj -> C:\Users\cappr\Documents\iD Tech\Cryptography\C++\shiftBruteDecrypt\Debug\shiftBruteDecrypt.exe
+  shiftBruteDecrypt.vcxproj -> C:\Users\cappr\Documents\iD Tech\Cryptography\C++\shiftBruteDecrypt\Debug\shiftBruteDecrypt.pdb (Partial PDB)

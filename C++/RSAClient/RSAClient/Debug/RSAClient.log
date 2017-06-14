@@ -1,0 +1,4 @@
+﻿  client.cpp
+c:\users\cappr\documents\id tech\cryptography\c++\rsaclient\rsaclient\client.cpp(39): warning C4244: 'initializing': conversion from 'long' to 'char', possible loss of data
+  RSAClient.vcxproj -> C:\Users\cappr\Documents\iD Tech\Cryptography\C++\RSAClient\Debug\RSAClient.exe
+  RSAClient.vcxproj -> C:\Users\cappr\Documents\iD Tech\Cryptography\C++\RSAClient\Debug\RSAClient.pdb (Partial PDB)

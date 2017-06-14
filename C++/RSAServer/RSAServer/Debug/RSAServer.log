@@ -1,0 +1,4 @@
+﻿  server.cpp
+c:\users\cappr\documents\id tech\cryptography\c++\rsaserver\rsaserver\server.cpp(108): warning C4244: 'initializing': conversion from 'long' to 'char', possible loss of data
+  RSAServer.vcxproj -> C:\Users\cappr\Documents\iD Tech\Cryptography\C++\RSAServer\Debug\RSAServer.exe
+  RSAServer.vcxproj -> C:\Users\cappr\Documents\iD Tech\Cryptography\C++\RSAServer\Debug\RSAServer.pdb (Partial PDB)
