@@ -1,3 +1,15 @@
+///////////////////////////////////////////////////////////////////
+//																 //
+//	RSAServer													 //
+//																 //
+//	Author: Juice												 //
+//																 //
+//	Description: An implementation of RSA on the server side	 //
+//																 //					
+//	Created 6/11/17 for iD Tech Camps							 //
+//																 //
+///////////////////////////////////////////////////////////////////
+
 #include <iostream>
 #include <fstream>
 #include <math.h>

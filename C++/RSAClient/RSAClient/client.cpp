@@ -1,3 +1,15 @@
+///////////////////////////////////////////////////////////////////
+//																 //
+//	RSAClient													 //
+//																 //
+//	Author: Juice												 //
+//																 //
+//	Description: An implementation of RSA on the client side	 //
+//																 //					
+//	Created 6/11/17 for iD Tech Camps							 //
+//																 //
+///////////////////////////////////////////////////////////////////
+
 #include <iostream>
 #include <fstream>
 #include <string>
