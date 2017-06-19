@@ -14,6 +14,8 @@
 #include <string>
 #include <fstream>
 
+std::string _file_name = "internet.txt";
+
 int main() {
 
 	//Choosing between writing (encryption) or reading (decryption)
@@ -34,9 +36,9 @@ int main() {
 	}
 	else{
 		//Open file, quit if error
-		std::ifstream inFile("encryptedText.txt");
+		std::ifstream inFile(_file_name);
 		if (!inFile.is_open()) {
-			std::cout << "Failed to open encryptedText.txt. Make sure it exists!" << std::endl;
+			std::cout << "Failed to open " << _file_name << ". Make sure it exists!" << std::endl;
 			system("pause");
 			return -1;
 		}
@@ -74,7 +76,7 @@ int main() {
 	if (in == 'w') {
 		std::cout << "\nCiphertext:" << std::endl;
 		std::cout << out_text << std::endl;
-		std::ofstream outFile("encryptedText.txt");
+		std::ofstream outFile(_file_name);
 		
 		outFile << out_text;
 		outFile.close();
